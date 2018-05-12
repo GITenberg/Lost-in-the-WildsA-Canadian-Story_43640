@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42315'
     url: http://www.gutenberg.org/2009/agents/42315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43640#Lost-in-the-WildsA-Canadian-Story
 gutenberg_issued: '2013-09-03'
 gutenberg_type: Text
 identifiers:
